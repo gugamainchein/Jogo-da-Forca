@@ -1,0 +1,13 @@
+12
+html
+css
+scss
+Javascript
+angular js
+React js
+node js
+React native
+python
+ruby
+vagrant
+php
